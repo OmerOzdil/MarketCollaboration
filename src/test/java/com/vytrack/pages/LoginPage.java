@@ -22,7 +22,7 @@ public class LoginPage {
     @FindBy(name = "_submit")
     public WebElement submit;
 
-
+    //There are some ne codes here
     public void login(String userNameStr, String passwordStr) {
         userName.sendKeys(userNameStr);
         password.sendKeys(passwordStr);
