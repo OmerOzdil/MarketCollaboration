@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
-
+//Bilal is also adding some codes. This is a challenge ??
     public LoginPage(){
         PageFactory.initElements(Driver.get(), this);
     }

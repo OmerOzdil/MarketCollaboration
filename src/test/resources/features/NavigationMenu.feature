@@ -14,7 +14,7 @@ Feature: Navigation Menu
     Then the title should be Campaigns
 
 
-#    so this is a test case and it has several steps :)
+#    so this is a test case and it has several steps :)...
   Scenario: Navigating Activities —- Calendar Events
     Given the user is on the login page
     And the user enter sales manager information
